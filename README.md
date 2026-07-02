@@ -77,17 +77,6 @@ The benchmark displays:
 - comparison chart
 - benchmark statistics
 
----
-
-## Screenshots
-
-### Dashboard
-
-_Add a screenshot here._
-
-### Benchmark
-
-_Add a screenshot here._
 
 ---
 
