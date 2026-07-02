@@ -119,10 +119,3 @@ http://localhost:8080
 
 ---
 
-## Author
-
-**Călin Dan Marinescu**
-
-Bachelor's Thesis  
-Faculty of Automation, Computers and Electronics  
-University of Craiova
