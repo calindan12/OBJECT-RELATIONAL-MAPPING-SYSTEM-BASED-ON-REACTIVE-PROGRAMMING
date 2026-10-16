@@ -1,6 +1,6 @@
 # Reactive Object-Relational Mapping System
 
-A backend application developed as part of a Bachelor's Thesis that demonstrates the implementation of a reactive object-relational mapping system using Spring WebFlux and Spring Data R2DBC.
+A backend application developed as part of a Master's Thesis that demonstrates the implementation of a reactive object-relational mapping system using Spring WebFlux and Spring Data R2DBC.
 
 The project compares the performance of reactive and blocking approaches for database access through concurrent request processing and provides a web interface for benchmarking and visualization.
 
